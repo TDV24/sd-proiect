@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1615757766 source:d:\codeblocks\tema bd\main.cpp
+	<iostream>
+	<fstream>
+	<chrono>
+	<algorithm>
+
