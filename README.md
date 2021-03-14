@@ -23,3 +23,10 @@ merge sort: 0.010974 s
 quick sort: 0.147603 s
 
 N=100000 Max=100000 numere aleatorii
+c++ sort: 0.019733 s
+Bubble sort: 0.000992 s
+Count sort: 0.005951 s
+Radix sort: 0.014961 s
+merge sort: 0.355594 s
+quick sort: 0.014973 s
+
